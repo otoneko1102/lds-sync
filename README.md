@@ -8,12 +8,12 @@ LINE, Discord, Slackのグループチャット・チャンネルを同期させ
 <details>
   <summary>Images</summary>
 
-  LINE:
-  ![LINE](./img/line.png)
-  Discord:
-  ![Discord](./img/discord.png)
-  Slack:
-  ![Slack](./img/slack.png)
+  LINE:  
+  ![LINE](./img/line.png)  
+  Discord:  
+  ![Discord](./img/discord.png)  
+  Slack:  
+  ![Slack](./img/slack.png)  
 
 </details>
 
