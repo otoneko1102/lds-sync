@@ -19,6 +19,8 @@ LINE, Discord, Slackのグループチャット・チャンネルを同期させ
 
 ## Required
 
+- Your Own Domain e.g. "lds.example.com"
+
 ### Packages
 
 - Node.js v20以上 (v22推奨)
@@ -47,7 +49,7 @@ npm install
 - [Slack API](https://api.slack.com/apps)
 
 ```bash
-npm run build
+npm run build # tsc
 # 一時起動の場合
 npm run start
 # 常時起動の場合
